@@ -1,0 +1,437 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        2.1701984405517578,
+        11.148658752441406,
+        6.49249267578125
+      ],
+      "min": [
+        -2.4416546821594238,
+        -0.25029271841049194,
+        0.656779944896698
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16860,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        0.99988412857055664,
+        0.99656134843826294,
+        0.99997925758361816
+      ],
+      "min": [
+        -0.99994641542434692,
+        -0.99997514486312866,
+        -0.99913865327835083
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        0.99999994039535522,
+        0.88986307382583618,
+        0.99959224462509155,
+        1
+      ],
+      "min": [
+        -0.99549436569213867,
+        -0.99871766567230225,
+        -0.99996739625930786,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        1.0016369819641113,
+        0.84468644857406616
+      ],
+      "min": [
+        8.5458159446716309e-05,
+        -0.0021118074655532837
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 8112,
+      "max": [
+        1404
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33720,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        2.1701984405517578,
+        11.148658752441406,
+        6.49249267578125
+      ],
+      "min": [
+        -2.4416546821594238,
+        -0.25029271841049194,
+        0.656779944896698
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 50580,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        0.99988412857055664,
+        0.99656134843826294,
+        0.99997925758361816
+      ],
+      "min": [
+        -0.99994641542434692,
+        -0.99997514486312866,
+        -0.99913865327835083
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 22480,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        0.99999994039535522,
+        0.88986307382583618,
+        0.99959224462509155,
+        1
+      ],
+      "min": [
+        -0.99549436569213867,
+        -0.99871766567230225,
+        -0.99996739625930786,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11240,
+      "componentType": 5126,
+      "count": 1405,
+      "max": [
+        1.0016369819641113,
+        0.84468644857406616
+      ],
+      "min": [
+        8.5458159446716309e-05,
+        -0.0021118074655532837
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 32448,
+      "componentType": 5125,
+      "count": 8112,
+      "max": [
+        1404
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "alejandro8976 (https://sketchfab.com/alejandro8976)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lungs-9b8ea5299b92403eadf662bfa53642c9",
+      "title": "Lungs"
+    },
+    "generator": "Sketchfab-4.81.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 64896,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22480,
+      "byteOffset": 64896,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 67440,
+      "byteOffset": 87376,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44960,
+      "byteOffset": 154816,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 199776,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Lung_normal.png"
+    },
+    {
+      "uri": "textures/Lung_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Lung",
+      "normalTexture": {
+        "index": 0,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.40072408540000004
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.0048163309693336487,
+        -0.99997472763061523,
+        0.0052315518260002136,
+        0,
+        0.9999883770942688,
+        0.0048163970932364464,
+        0,
+        0,
+        -2.5197199647664092e-05,
+        0.0052314912900328636,
+        0.99998629093170166,
+        0,
+        -0.13496330380439758,
+        -0.16425906121730804,
+        0.00078477838542312384,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "2a8015a60cf849bcafbbca7a88f92901.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        7
+      ],
+      "name": "Original"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        1.2246467991473532e-16,
+        -0,
+        -0,
+        -1.2246467991473532e-16,
+        1,
+        -0,
+        -0,
+        -0,
+        -0,
+        -1,
+        -0,
+        0,
+        0,
+        -0.10712546855211258,
+        1
+      ],
+      "name": "pCube2"
+    },
+    {
+      "mesh": 0,
+      "name": "0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0.10712561756372452,
+        1
+      ],
+      "name": "pCube1"
+    },
+    {
+      "mesh": 1,
+      "name": "1"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
